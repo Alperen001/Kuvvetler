@@ -1,0 +1,2 @@
+# Kuvvetler
+Kuvvetler
